@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/avanaik92/EOS_Labs/Final_Project/EOS Final Project/Server/sIPA/sample.cpp
+opencv2/opencv.hpp
+-
+string.h
+-
+iostream
+-
+stdio.h
+-
+
